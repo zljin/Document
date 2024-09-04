@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: corejava-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: corejava
+  template:
+    metadata:
+      labels:
+        app: corejava
+    spec:
+      containers:
+        - name: corejava
+          image: "127.0.0.1:5000/corejava:latest"
+          imagePullPolicy: IfNotPresent
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: corejava-service
+spec:
+  selector:
+    app: corejava
+  type: NodePort
+  ports:
+    - port: 80
+      targetPort: 8090
