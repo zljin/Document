@@ -1,4 +1,4 @@
-zoom讨论
+## zoom讨论
 
 May I share my screen.
 
@@ -11,13 +11,13 @@ could you  wirte down comments in the teams chat.
 I know what you mean. Time is tight, I will fix it as soon as possible.I'll pin you when I'm done.
 
 
-邮件确认
+## 邮件确认
 
 i would like to seek your confirmation on the following three points, thanks.
 
 Kind regards,
 
-自我介绍
+## 自我介绍
 
 my name is tom and come from hunan province
 
@@ -34,3 +34,7 @@ In spare time, i am committed to improving my technical skills.
 I process strong skills in java,spring framework,MySQL,Redis,MQ and have a good understanding of devops.
 
 OK, this is my brief introduction, thank you for your attention.
+
+## 工具
+
+https://dictionary.cambridge.org/zhs/
