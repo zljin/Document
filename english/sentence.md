@@ -12,17 +12,13 @@ I know what you mean. Time is tight, I will fix it as soon as possible.I'll pin 
 
 
 邮件确认
-Hi tom,
 
 i would like to seek your confirmation on the following three points, thanks.
 
-1,2,3.
-
 Kind regards,
 
-tom
+自我介绍
 
-自我介绍：
 my name is tom and come from hunan province
 
 I graduated from university with a major in computer science.
