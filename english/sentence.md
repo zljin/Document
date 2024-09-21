@@ -1,3 +1,26 @@
+## 口语要素
+
+sure
+exactly
+great
+thanks
+no problem
+i see
+really
+good luck
+cheers
+congratulation
+wait a minute
+not yet
+come on
+cheer up
+
+## 突破句型
+
+
+
+
+
 ## zoom讨论
 
 May I share my screen.
